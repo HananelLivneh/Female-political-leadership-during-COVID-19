@@ -11,3 +11,14 @@ In the post months, multiple journalists have pointed out that among the most su
 This research will start by reviewing briefly the COVID-19 pandemic worldwide, measures used by different countries to minimize the spread of the disease, and the same review just focused on the United States. The following section will review previous research and the different elements at the heart of the research question, including governors' power in the United States, goners during the COVID-19, female leadership, female governors, and female leadership during the pandemic. This section will conclude with the hypothesis for this research, based on the review of previous work. 
 
 The final section includes the empirical aspect of this research. Starting with the challenges faced and methods used to respond to the challenges. Then a review of the multiple data sources used, including the coding process, is presented. Multiple OLS regressions are displayed and analyzed based on the hypothesis from the previous section.
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
