@@ -1,3 +1,4 @@
+ [![CC BY 4.0][cc-by-shield]][cc-by]
 # Female political leadership during COVID-19 
 ## United States of America female governors' response to the COVID-19 pandemic 
 ### Seminar paper submitted as part of the requirements for Gender and Politics (12051)
@@ -12,7 +13,6 @@ This research will start by reviewing briefly the COVID-19 pandemic worldwide, m
 
 The final section includes the empirical aspect of this research. Starting with the challenges faced and methods used to respond to the challenges. Then a review of the multiple data sources used, including the coding process, is presented. Multiple OLS regressions are displayed and analyzed based on the hypothesis from the previous section.
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
